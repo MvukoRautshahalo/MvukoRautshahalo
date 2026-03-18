@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-Analytics professional working at the intersection of **commercial strategy, data engineering, and machine learning** within telecoms.
+Analytics professional working at the intersection of **commercial strategy, data engineering, and Data Science** within telecoms.
 
 I build and own end-to-end solutions — from translating business problems into targeting logic, to deploying models in live campaign environments.  
 
@@ -26,13 +26,13 @@ My focus: **driving revenue, automating reporting at scale, and turning data int
 ## 📫 Let’s Connect
 If you're into data, analytics, or building things that actually matter — let’s talk.
 
-🔗 [LinkedIn](https://linkedin.com/in/mvuko-elelwani-rautshahalo-21072719b/)
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Je9uHnwa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mvuk0_elelwani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mvuko-elelwani-rautshahalo-21072719b) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mvuk0_elelwani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mvuk0_elelwani) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mvuko-elelwani-rautshahalo-21072719b)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mvuk0_elelwani)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@mvuk0_elelwani)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mvuk0_elelwani)
 
-# 💻 Tech Stack:
-## 🧠 Tech Stack
-
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%230074C1.svg?style=for-the-badge&logo=database&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -55,14 +55,10 @@ If you're into data, analytics, or building things that actually matter — let�
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub Stats:
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Mvuk0&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvuk0&theme=dark&hide_border=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Mvuk0&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mvuk0&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mvuk0&layout=compact&theme=dark&hide_border=true" />
+</p>
