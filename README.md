@@ -2,6 +2,10 @@
 
 **Specialist: Advanced Analytics | Customer Value Management (CVM) | Analytics Engineering**
 
+## 🧃 Fun Fact
+
+I don’t just “analyze data” — I interrogate it until it confesses.
+
 ---
 
 ## 🚀 About Me
@@ -17,10 +21,6 @@ My focus: **driving revenue, automating reporting at scale, and turning data int
 - Bridging the gap between business and data teams  
 - Scaling analytics in real-world environments  
 
----
-## 🧃 Fun Fact
-
-I don’t just “analyze data” — I interrogate it until it confesses.
 ---
 ## 🌐 Socials
 
